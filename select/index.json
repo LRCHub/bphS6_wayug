@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "【初音ミク(40㍍)】 ドレミファロンド　DO RE MI FA Rondo 【オリジナルPV】",
+  "base_artist": "40mP",
+  "createdAt": "2025-12-20T16:17:55.122123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドレミファロンド",
+      "artist": "40mP/初音ミク",
+      "has_synced": false,
+      "path": "select/01_ドレミファロンド_40mP_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドレミファロンド",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_ドレミファロンド_40mP_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドレミファロンド",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_ドレミファロンド_40mP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドレミファロンド",
+      "artist": "All",
+      "has_synced": false,
+      "path": "select/04_ドレミファロンド_All.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドレミファロンド",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/05_ドレミファロンド_96猫.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドレミファロンド feat. 初音ミク",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/06_ドレミファロンド_feat._初音ミク_40mP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドレミファロンド (フレンズ ver.)",
+      "artist": "どうぶつビスケッツ",
+      "has_synced": true,
+      "path": "select/07_ドレミファロンド_(フレンズ_ver.)_どうぶつビスケッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドレミファロンド (フレンズ ver.)",
+      "artist": "どうぶつビスケッツ＋かばん×PPP",
+      "has_synced": true,
+      "path": "select/08_ドレミファロンド_(フレンズ_ver.)_どうぶつビスケッツ+かばん×PPP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドレミファロンド（フレンズ ver.）",
+      "artist": "Doubutsu Biscuits",
+      "has_synced": true,
+      "path": "select/09_ドレミファロンド(フレンズ_ver.)_Doubutsu_Biscuits.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドレミファロンド (フレンズ ver.)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_ドレミファロンド_(フレンズ_ver.)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドレミファロンド",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/pl_01_ドレミファロンド_40mP.txt"
+    }
+  ]
+}
